@@ -1,0 +1,57 @@
+.box
+{
+    background-image: url('image/tashkent-gori-foto-18.jpg');
+    background-size: cover;
+    height: 100vh;
+}
+
+.logo{
+    width: 100px;
+}
+
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 10px;
+    background-color: rgba(240, 248, 255, 0.5);
+}
+
+.menu-navbar .a{
+    margin-left: 20px;
+    text-decoration: none;
+    text-transform: capitalize;
+    font-weight: 900;
+    color: black;
+    font-size: 16px;
+    padding: 5px;
+    border-radius: 12px;
+}
+
+.menu-navbar a:hover{
+    background: linear-gradient(yellow, green);
+    color: white;
+    
+}
+
+.button{
+    background: linear-gradient(yellow, green) ;
+    font-size: 16px;
+    text-decoration: none;
+    text-transform: capitalize;
+    font-weight: 900;
+    color: black;
+    padding: 5px;
+    border-radius: 12px;
+    margin-left: 40px;
+}
+
+.box2{
+    color: aliceblue;
+    text-align: center;
+    width: 500px;
+    position: relative;
+    top: 130px;
+    left: 120px;
+}
+

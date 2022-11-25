@@ -1,0 +1,54 @@
+form{
+    width: 308px;
+    margin: 20px auto;
+    border: 1px solid rgba(0, 0, 0, 0.535);
+}
+
+img{
+    display: block;
+    width: 200px;
+    margin: 10px auto;
+}
+
+input{
+    display: block;
+    margin: 10px auto;
+    padding: 5px 50px 5px 0;
+}
+
+button{
+    width: 225px;
+    padding: 10px 25px;
+    display: block;
+    margin: 0 auto;
+    background-color: rgba(0, 98, 255, 0.324);
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+}
+
+button:hover{
+    background-color: rgb(0, 98, 255);
+}
+
+p{
+    text-align: center;
+    margin: 40px;
+}
+
+a{
+    display: block;
+    margin: 20px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.facebook{
+    font-weight: bold;
+    color: rgb(0, 0, 163);
+}
+
+.password{
+    font-size: 12px;
+    color: black;
+}
